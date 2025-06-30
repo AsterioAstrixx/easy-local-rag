@@ -3,7 +3,7 @@
 ![LLAMA 3 2](https://github.com/user-attachments/assets/e459834b-bb99-46b0-a4c6-77516f745366)
 
 ### Setup
-1. git clone https://github.com/AllAboutAI-YT/easy-local-rag.git
+1. git clone https://github.com/AsterioAstrixx/easy-local-rag.git
 2. cd dir
 3. pip install -r requirements.txt
 4. Install Ollama (https://ollama.com/download)
@@ -14,7 +14,7 @@
 9. run localrag_no_rewrite.py (no query re-write)
 
 ### Email RAG Setup
-1. git clone https://github.com/AllAboutAI-YT/easy-local-rag.git
+1. git clone https://github.com/AsterioAstrixx/easy-local-rag.git
 2. cd dir
 3. pip install -r requirements.txt
 4. Install Ollama (https://ollama.com/download)
